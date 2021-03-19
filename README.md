@@ -1,3 +1,5 @@
+#### Commands
+
 The command prefix is `^`.
 
 
