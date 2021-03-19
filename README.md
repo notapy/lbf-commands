@@ -1,4 +1,4 @@
-#### Commands
+# Commands
 
 The command prefix is `^`.
 
