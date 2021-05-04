@@ -30,7 +30,7 @@ The command prefix is `^`.
 
 `statuscat` - Status cats from [http.cat](https://http.cat)
 
-`twitterbio, tb` - Randomly generated twitter bio
+`twitterbio, tb` - Randomly generated twitter bio [DISABLED]
 
 `word` - Random word [DISABLED]
 
