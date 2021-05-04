@@ -10,6 +10,8 @@ The command prefix is `^`.
 
 `tenorsearch, tenor, gif {arg}` - Searches [Tenor](https://tenor.com) with the text you provide. Some GIFs may be NSFW, so you should look out for that.
 
+`twitter` - Downloads Twitter videos (please don't spam this command and fill my storage up quickly)
+
 `vote` - Bot vote links
 ### Random Output
 `cat, randomcat` - Image of a cat
