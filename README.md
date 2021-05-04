@@ -22,21 +22,19 @@ The command prefix is `^`.
 
 `fox, randomfox` - Image of a fox
 
-`passphrase` - Randomly generated passphrase
-
 `person, randomperson` - Some random image of a person
 
-`randomyomama, randomym` - Randomly generated yo mama joke that probably doesn't make sense
+`randomyomama, randomym` - Randomly generated yo mama joke that probably doesn't make sense [DISABLED]
 
 `statuscat` - Status cats from [http.cat](https://http.cat)
 
 `twitterbio, tb` - Randomly generated twitter bio
 
-`word` - Random word
+`word` - Random word [DISABLED]
 
-`charliebrown, cb` - Sends a random "Bring Me The Head Of Charlie Brown" joke. I don't know if you'll laugh at it.
+`charliebrown, cb` - Sends a random "Bring Me The Head Of Charlie Brown" joke. I don't know if you'll laugh at it. [DISABLED]
 
-`sentence` - Generates a random sentence from a whole bunch of scripts
+`sentence` - Generates a random sentence from a whole bunch of scripts [DISABLED]
 ### Give Me Your Images
 `ascii {image}` - Turns an image into kinda readable ASCII art
 
